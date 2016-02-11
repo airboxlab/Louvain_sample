@@ -1,2 +1,3 @@
-# Louvain_sample
-Louvain sample
+# Louvain Sample
+
+Resources of Louvain & communities detection sample article
